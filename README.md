@@ -11,7 +11,7 @@
 Основные проекты в порядке от простого к сложному:
 
 CHILLIPOSTS (deploy) - тестовое задание, которое мне давали. Раньше работало с запросами, пока не отключили api. Пришлось переделывать
-https://alex1-w.github.io/chilliposts
+https://alex1-w.github.io/chilliposts <br>
 https://github.com/alex1-w/chilliposts  
 
 reactPost (deploy) - небольшое приложение по созданию заказов для почты
