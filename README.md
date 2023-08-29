@@ -30,6 +30,10 @@ reactAdvertisement (без deploy'я) - реализовано создание 
 https://github.com/alex1-w/reactAdvertisement
 https://github.com/alex1-w/advertisementBack (backend)
 
+nextMarket (только начал делать) - онлайн магазин с возможностью доставки
+
+https://github.com/alex1-w/nextMarket
+
 
 
 <p align="left"> <a href="https://www.github.com/alex1-w" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
