@@ -14,10 +14,6 @@ CHILLIPOSTS (deploy) - тестовое задание, которое мне д
 https://alex1-w.github.io/chilliposts 
 https://github.com/alex1-w/chilliposts  
 
-reactPost (deploy) - небольшое приложение по созданию заказов для почты
-https://alex1-w.github.io/reactPost
-https://github.com/alex1-w/reactPost
-
 nextKino (vercel deploy) - api принадлежит кинопоиску(спирачено), и многие запросы перестали в какой-то момента работать, поэтому сейчас роуты могут не работать. приложение в процессе переделывания.
 https://next-kino-xkry-eew3qy8rx-alex1-w.vercel.app
 https://github.com/alex1-w/nextKino
