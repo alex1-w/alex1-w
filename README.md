@@ -22,7 +22,7 @@ nextKino (vercel deploy) - api принадлежит кинопоиску(сп�
 https://next-kino-xkry-eew3qy8rx-alex1-w.vercel.app
 https://github.com/alex1-w/nextKino
 
-reactLibrary (deploy) - регистрация, добавление в избраанное и корзину реализованы через localStorage, но в приложении еще есть над чем работать
+reactLibrary (deploy) - регистрация, добавление в избраанное и корзину реализованы через localStorage, но в приложении еще есть над чем работать, верстать тогда я еще учился, поэтому верстка немного кривая
 https://alex1-w.github.io/reactLibrary
 https://github.com/alex1-w/reactLibrary
 
@@ -30,10 +30,8 @@ reactAdvertisement (без deploy'я) - реализовано создание 
 https://github.com/alex1-w/reactAdvertisement
 https://github.com/alex1-w/advertisementBack (backend)
 
-nextMarket (только начал делать) - онлайн магазин с возможностью доставки
-
-https://github.com/alex1-w/nextMarket
-
+workPlace (vercel deploy)- площадка по предоставлению услуг, сделана в основном верстка
+https://work-place-5ttmeabe2-alex1-w.vercel.app/
 
 
 <p align="left"> <a href="https://www.github.com/alex1-w" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
